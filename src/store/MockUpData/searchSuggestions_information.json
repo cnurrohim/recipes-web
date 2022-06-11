@@ -1,0 +1,925 @@
+{
+  "results": [
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": true,
+      "weightWatcherSmartPoints": 7,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 257.2,
+      "id": 652241,
+      "title": "Mojito Cocktail",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "http://www.foodista.com/recipe/G2JCDHMV/mojito-cocktail",
+      "openLicense": -1,
+      "image": "https://spoonacular.com/recipeImages/652241-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Need a <b>gluten free, fodmap friendly, and vegan beverage</b>? Mojito Cocktail could be a super recipe to try. This recipe serves 1 and costs $2.57 per serving. One serving contains <b>194 calories</b>, <b>1g of protein</b>, and <b>0g of fat</b>. Only a few people made this recipe, and 1 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Head to the store and pick up sugar or, lime juice, sprg mint, and a few other things to make it today. All things considered, we decided this recipe <b>deserves a spoonacular score of 15%</b>. This score is not so super. Try <a href=\"https://spoonacular.com/recipes/mojito-cocktail-148386\">Mojito Cocktail</a>, <a href=\"https://spoonacular.com/recipes/mojito-cocktail-451757\">Mojito Cocktail</a>, and <a href=\"https://spoonacular.com/recipes/simple-mojito-cocktail-493433\">Simple Mojito Cocktail</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": [],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "fodmap friendly",
+        "vegan"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Combine all ingredients except mint in a shaker with crushed ice. Shake, strain into a glass, and serve.This recipe yields 1 serving.",
+              "ingredients": [
+                {
+                  "id": 10114412,
+                  "name": "crushed ice cubes",
+                  "localizedName": "crushed ice cubes",
+                  "image": "crushed-ice.png"
+                },
+                {
+                  "id": 0,
+                  "name": "shake",
+                  "localizedName": "shake",
+                  "image": ""
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/mojito-cocktail-652241"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": true,
+      "weightWatcherSmartPoints": 5,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 2,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 153.74,
+      "id": 642026,
+      "title": "Easy Mojito",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "https://www.foodista.com/recipe/KPFZDTVD/easy-mojito-recipe",
+      "openLicense": -1,
+      "image": "https://spoonacular.com/recipeImages/642026-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Easy Mojito could be just the <b>gluten free, dairy free, lacto ovo vegetarian, and fodmap friendly</b> recipe you've been looking for. One serving contains <b>146 calories</b>, <b>1g of protein</b>, and <b>0g of fat</b>. For <b>$1.54 per serving</b>, you get a beverage that serves 1. This recipe from Foodista has 1 fans. A mixture of lime juice, mint leaves, sugar syrup, and a handful of other ingredients are all it takes to make this recipe so scrumptious. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 22%</b>. This score is rather bad. Similar recipes are <a href=\"https://spoonacular.com/recipes/easy-mojito-281241\">Easy Mojito</a>, <a href=\"https://spoonacular.com/recipes/easy-mock-mojito-271967\">Easy Mock Mojito</a>, and <a href=\"https://spoonacular.com/recipes/crimson-tide-mojito-cherry-mojito-507159\">Crimson Tide Mojito (Cherry Mojito)</a>.",
+      "cuisines": [],
+      "dishTypes": ["beverage", "drink"],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "lacto ovo vegetarian",
+        "fodmap friendly",
+        "vegan"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "In a highball glass muddle Mint leaves, Lime wedges and Sugar syrup together. This will bring out all the flavours.",
+              "ingredients": [
+                {
+                  "id": 1029159,
+                  "name": "lime wedge",
+                  "localizedName": "lime wedge",
+                  "image": "lime-wedge.jpg"
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                },
+                {
+                  "id": 90480,
+                  "name": "simple syrup",
+                  "localizedName": "simple syrup",
+                  "image": "simple-syrup.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Add the Rum and fresh Lime juice and muddle all together.",
+              "ingredients": [
+                {
+                  "id": 9160,
+                  "name": "lime juice",
+                  "localizedName": "lime juice",
+                  "image": "lime-juice.png"
+                },
+                {
+                  "id": 11114037,
+                  "name": "rum",
+                  "localizedName": "rum",
+                  "image": "rum-dark.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Top off with Soda water.",
+              "ingredients": [
+                {
+                  "id": 14121,
+                  "name": "sparkling water",
+                  "localizedName": "sparkling water",
+                  "image": "sparkling-water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Garnish with a sprig of mint and some lime slices.",
+              "ingredients": [
+                {
+                  "id": 1019159,
+                  "name": "lime slice",
+                  "localizedName": "lime slice",
+                  "image": "lime-wedge.jpg"
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/easy-mojito-642026"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 15,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 3,
+      "healthScore": 0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 140.69,
+      "id": 643916,
+      "title": "Frozen Mojito Pie",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "https://www.foodista.com/recipe/G245TF5X/frozen-mojito-pie",
+      "openLicense": -1,
+      "image": "https://spoonacular.com/recipeImages/643916-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Frozen Mojito Pie takes about <b>approximately 45 minutes</b> from beginning to end. One portion of this dish contains about <b>3g of protein</b>, <b>20g of fat</b>, and a total of <b>317 calories</b>. This recipe serves 8. For <b>$1.41 per serving</b>, this recipe <b>covers 4%</b> of your daily requirements of vitamins and minerals. 3 people were impressed by this recipe. Head to the store and pick up pretzels, butter, mint, and a few other things to make it today. It is brought to you by Foodista. Overall, this recipe earns a <b>very bad (but still fixable) spoonacular score of 7%</b>. Try <a href=\"https://spoonacular.com/recipes/frozen-mojito-pie-800500\">Frozen Mojito Pie</a>, <a href=\"https://spoonacular.com/recipes/frozen-mojito-542191\">FROZEN MOJITO</a>, and <a href=\"https://spoonacular.com/recipes/frozen-strawberry-watermelon-mojito-534527\">Frozen Strawberry Watermelon Mojito</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": [],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "In a medium sized bowl mix together the pretzel crumbs and the butter.",
+              "ingredients": [
+                {
+                  "id": 19047,
+                  "name": "pretzels",
+                  "localizedName": "pretzels",
+                  "image": "pretzels.jpg"
+                },
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Press the pretzels onto the bottom of an 8-inch springform pan, or a round pan lined with plastic wrap.",
+              "ingredients": [
+                {
+                  "id": 19047,
+                  "name": "pretzels",
+                  "localizedName": "pretzels",
+                  "image": "pretzels.jpg"
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404650,
+                  "name": "springform pan",
+                  "localizedName": "springform pan",
+                  "image": "cake-pan.png"
+                },
+                {
+                  "id": 404730,
+                  "name": "plastic wrap",
+                  "localizedName": "plastic wrap",
+                  "image": "plastic-wrap.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Freeze the crust for at least one hour.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "crust",
+                  "localizedName": "crust",
+                  "image": ""
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 60,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 4,
+              "step": "In your mixers bowl, beat together the cream cheese, sugar, zest, juice, and mint.",
+              "ingredients": [
+                {
+                  "id": 1017,
+                  "name": "cream cheese",
+                  "localizedName": "cream cheese",
+                  "image": "cream-cheese.jpg"
+                },
+                {
+                  "id": 1019016,
+                  "name": "juice",
+                  "localizedName": "juice",
+                  "image": "apple-juice.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Mix until well blended.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Whisk in the whipped topping.",
+              "ingredients": [
+                {
+                  "id": 42135,
+                  "name": "whipped topping",
+                  "localizedName": "whipped topping",
+                  "image": "whipped-cream.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "localizedName": "whisk",
+                  "image": "whisk.png"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Spoon the filling over the crust.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "crust",
+                  "localizedName": "crust",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Freeze for at least 6 hours. Over night is best.",
+              "ingredients": [],
+              "equipment": [],
+              "length": {
+                "number": 360,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 9,
+              "step": "Carefully remove the pie from the pan and top it with some crushed pretzels and thin slices of lime.",
+              "ingredients": [
+                {
+                  "id": 19047,
+                  "name": "pretzels",
+                  "localizedName": "pretzels",
+                  "image": "pretzels.jpg"
+                },
+                {
+                  "id": 9159,
+                  "name": "lime",
+                  "localizedName": "lime",
+                  "image": "lime.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 10,
+              "step": "Keep it frozen.",
+              "ingredients": [],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/frozen-mojito-pie-643916"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 1,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 2,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 114.86,
+      "id": 635495,
+      "title": "Blueberry Mojito Popsicles",
+      "readyInMinutes": 45,
+      "servings": 12,
+      "sourceUrl": "https://www.foodista.com/recipe/JCY677ZZ/blueberry-mojito-popsicles",
+      "openLicense": -1,
+      "image": "https://spoonacular.com/recipeImages/635495-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Blueberry Mojito Popsicles is a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan</b> recipe with 12 servings. One serving contains <b>56 calories</b>, <b>1g of protein</b>, and <b>0g of fat</b>. For <b>$1.15 per serving</b>, this recipe <b>covers 3%</b> of your daily requirements of vitamins and minerals. Not a lot of people really liked this beverage. This recipe from Foodista has 1 fans. A mixture of sparkling water, lime juice, rum, and a handful of other ingredients are all it takes to make this recipe so yummy. From preparation to the plate, this recipe takes roughly <b>roughly 45 minutes</b>. Overall, this recipe earns a <b>not so excellent spoonacular score of 21%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/mojito-popsicles-803000\">Mojito Popsicles</a>, <a href=\"https://spoonacular.com/recipes/watermelon-mojito-popsicles-83273\">Watermelon Mojito Popsicles</a>, and <a href=\"https://spoonacular.com/recipes/mango-mojito-popsicles-58671\">Mango Mojito Popsicles</a>.",
+      "cuisines": [],
+      "dishTypes": ["beverage", "drink"],
+      "diets": ["gluten free", "dairy free", "lacto ovo vegetarian", "vegan"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "In a blender, puree the blueberries, mint leaves, agave nectar, lime juice and zest.",
+              "ingredients": [
+                {
+                  "id": 19912,
+                  "name": "agave",
+                  "localizedName": "agave",
+                  "image": "agave.png"
+                },
+                {
+                  "id": 9050,
+                  "name": "blueberries",
+                  "localizedName": "blueberries",
+                  "image": "blueberries.jpg"
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                },
+                {
+                  "id": 9160,
+                  "name": "lime juice",
+                  "localizedName": "lime juice",
+                  "image": "lime-juice.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add the lime and sparkling water and blend thoroughly.",
+              "ingredients": [
+                {
+                  "id": 14121,
+                  "name": "sparkling water",
+                  "localizedName": "sparkling water",
+                  "image": "sparkling-water.png"
+                },
+                {
+                  "id": 9159,
+                  "name": "lime",
+                  "localizedName": "lime",
+                  "image": "lime.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Pour the mixture into popsicle molds and add the popsicle sticks. Freeze for 4 hours or overnight.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 408704,
+                  "name": "popsicle sticks",
+                  "localizedName": "popsicle sticks",
+                  "image": "popsicle-sticks.jpg"
+                },
+                {
+                  "id": 405929,
+                  "name": "popsicle molds",
+                  "localizedName": "popsicle molds",
+                  "image": "popsicle-molds.jpg"
+                }
+              ],
+              "length": {
+                "number": 240,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 4,
+              "step": "To remove from molds, briefly run hot water over the mold and slide the popsicles out. Wrap in plastic wrap and store in the freezer for up to 1 month.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404730,
+                  "name": "plastic wrap",
+                  "localizedName": "plastic wrap",
+                  "image": "plastic-wrap.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/blueberry-mojito-popsicles-635495"
+    },
+    {
+      "vegetarian": true,
+      "vegan": true,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 5,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 21,
+      "healthScore": 0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 223.49,
+      "id": 637766,
+      "title": "Cherry Lime Mojito",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "https://www.foodista.com/recipe/82DFQ4GB/cherry-lime-mojito",
+      "openLicense": -1,
+      "image": "https://spoonacular.com/recipeImages/637766-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Cherry Lime Mojito is a <b>gluten free, dairy free, lacto ovo vegetarian, and vegan</b> recipe with 1 servings. This beverage has <b>184 calories</b>, <b>1g of protein</b>, and <b>0g of fat</b> per serving. For <b>$2.23 per serving</b>, this recipe <b>covers 3%</b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes around <b>around 45 minutes</b>. 21 person were impressed by this recipe. This recipe from Foodista requires carbonated water, mint leaves, lime, and rum. With a spoonacular <b>score of 9%</b>, this dish is very bad (but still fixable). If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/sparkling-cherry-lime-mojito-punch-560452\">Sparkling Cherry Lime Mojito Punch</a>, <a href=\"https://spoonacular.com/recipes/the-ultimate-mojito-the-sequel-the-cherry-mojito-560082\">The Ultimate Mojito… The Sequel – The Cherry Mojito</a>, and <a href=\"https://spoonacular.com/recipes/crimson-tide-mojito-cherry-mojito-507159\">Crimson Tide Mojito (Cherry Mojito)</a>.",
+      "cuisines": [],
+      "dishTypes": ["beverage", "drink"],
+      "diets": ["gluten free", "dairy free", "lacto ovo vegetarian", "vegan"],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Place cherries, mint, sugar and lime in a tall glass.",
+              "ingredients": [
+                {
+                  "id": 9070,
+                  "name": "cherries",
+                  "localizedName": "cherries",
+                  "image": "cherries.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 9159,
+                  "name": "lime",
+                  "localizedName": "lime",
+                  "image": "lime.jpg"
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Muddle ingredients together at the bottom of the glass.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Add a few ice cubes and pour in the rum.",
+              "ingredients": [
+                {
+                  "id": 10014412,
+                  "name": "ice cubes",
+                  "localizedName": "ice cubes",
+                  "image": "ice-cubes.png"
+                },
+                {
+                  "id": 11114037,
+                  "name": "rum",
+                  "localizedName": "rum",
+                  "image": "rum-dark.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Fill the glass the rest of the way with carbonated water and serve.",
+              "ingredients": [
+                {
+                  "id": 14121,
+                  "name": "sparkling water",
+                  "localizedName": "sparkling water",
+                  "image": "sparkling-water.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/cherry-lime-mojito-637766"
+    },
+    {
+      "vegetarian": true,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 0,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 0,
+      "healthScore": 4,
+      "creditsText": "maplewoodroad",
+      "sourceName": "Maplewood Road",
+      "pricePerServing": 427.94,
+      "id": 1697641,
+      "title": "Thirst-Quenching Strawberry Cocktail & Virgin Strawberry Mojito",
+      "author": "maplewoodroad",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "https://maplewoodroad.com/strawberry-cocktail-mocktail/",
+      "openLicense": -1,
+      "image": "https://spoonacular.com/recipeImages/1697641-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Thirst-Quenching Strawberry Cocktail & Virgin Strawberry Mojito is a <b>gluten free, dairy free, and lacto ovo vegetarian</b> beverage. For <b>$4.28 per serving</b>, this recipe <b>covers 2%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains roughly <b>0g of protein</b>, <b>0g of fat</b>, and a total of <b>26 calories</b>. This recipe serves 1. Head to the store and pick up strawberries, another sparkling water, vodka, and a few other things to make it today. <b>Mother's Day</b> will be even more special with this recipe. It is brought to you by spoonacular user <a href=\"/profile/maplewoodroad\">maplewoodroad</a>. From preparation to the plate, this recipe takes about <b>about 45 minutes</b>. Try <a href=\"https://spoonacular.com/recipes/watermelon-strawberry-all-fruit-smoothie-thirst-quenching-summer-fun-579351\">Watermelon Strawberry All-Fruit Smoothie: Thirst-Quenching Summer Fun</a>, <a href=\"https://spoonacular.com/recipes/thirst-quenching-limeade-387648\">Thirst-Quenching Limeade</a>, and <a href=\"https://spoonacular.com/recipes/strawberry-mojito-cocktail-recipe-58071\">Strawberry Mojito Cocktail Recipe</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": ["beverage", "drink"],
+      "diets": ["gluten free", "dairy free", "lacto ovo vegetarian"],
+      "occasions": ["mother's day"],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Strawberry Basil Limoncello Slushie",
+              "ingredients": [
+                {
+                  "id": 99021,
+                  "name": "limoncello",
+                  "localizedName": "limoncello",
+                  "image": "limoncello.jpg"
+                },
+                {
+                  "id": 9316,
+                  "name": "strawberries",
+                  "localizedName": "strawberries",
+                  "image": "strawberries.png"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Place all ingredients in a blender and blend for 30 seconds to 1 minute.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ],
+              "length": {
+                "number": 1,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Pour into a glass, garnish with additional strawberries and basil, and serve ice cold. Enjoy!",
+              "ingredients": [
+                {
+                  "id": 9316,
+                  "name": "strawberries",
+                  "localizedName": "strawberries",
+                  "image": "strawberries.png"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                },
+                {
+                  "id": 10014412,
+                  "name": "ice",
+                  "localizedName": "ice",
+                  "image": "ice-cubes.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Virgin Strawberry Mojito",
+              "ingredients": [
+                {
+                  "id": 9316,
+                  "name": "strawberries",
+                  "localizedName": "strawberries",
+                  "image": "strawberries.png"
+                },
+                {
+                  "id": 0,
+                  "name": "mojito",
+                  "localizedName": "mojito",
+                  "image": "rum-dark.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "In a small saucepan, combine ⅛ c honey and ¼ c sparkling water, simmer for two minutes, and let cool. Then, add strawberries and lemon juice to a glass and muddle together (if you’d like to add some mint or basil as an additional flavor, add these now and muddle together with strawberries).",
+              "ingredients": [
+                {
+                  "id": 14121,
+                  "name": "sparkling water",
+                  "localizedName": "sparkling water",
+                  "image": "sparkling-water.png"
+                },
+                {
+                  "id": 9316,
+                  "name": "strawberries",
+                  "localizedName": "strawberries",
+                  "image": "strawberries.png"
+                },
+                {
+                  "id": 9152,
+                  "name": "lemon juice",
+                  "localizedName": "lemon juice",
+                  "image": "lemon-juice.jpg"
+                },
+                {
+                  "id": 2044,
+                  "name": "basil",
+                  "localizedName": "basil",
+                  "image": "basil.jpg"
+                },
+                {
+                  "id": 19296,
+                  "name": "honey",
+                  "localizedName": "honey",
+                  "image": "honey.png"
+                },
+                {
+                  "id": 2064,
+                  "name": "mint",
+                  "localizedName": "mint",
+                  "image": "mint.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                }
+              ],
+              "length": {
+                "number": 2,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 6,
+              "step": "Add cooled honey mixture and top with 7 oz sparkling water.",
+              "ingredients": [
+                {
+                  "id": 14121,
+                  "name": "sparkling water",
+                  "localizedName": "sparkling water",
+                  "image": "sparkling-water.png"
+                },
+                {
+                  "id": 19296,
+                  "name": "honey",
+                  "localizedName": "honey",
+                  "image": "honey.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Add ice cubes, stir, and garnish with additional strawberries and slice of lemon. Enjoy!",
+              "ingredients": [
+                {
+                  "id": 9316,
+                  "name": "strawberries",
+                  "localizedName": "strawberries",
+                  "image": "strawberries.png"
+                },
+                {
+                  "id": 10014412,
+                  "name": "ice cubes",
+                  "localizedName": "ice cubes",
+                  "image": "ice-cubes.png"
+                },
+                {
+                  "id": 9150,
+                  "name": "lemon",
+                  "localizedName": "lemon",
+                  "image": "lemon.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/thirst-quenching-strawberry-cocktail-virgin-strawberry-mojito-1697641"
+    }
+  ],
+  "offset": 0,
+  "number": 20,
+  "totalResults": 6
+}

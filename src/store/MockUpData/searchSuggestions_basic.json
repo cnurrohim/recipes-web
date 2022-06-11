@@ -1,0 +1,43 @@
+{
+  "results": [
+    {
+      "id": 652241,
+      "title": "Mojito Cocktail",
+      "image": "https://spoonacular.com/recipeImages/652241-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 642026,
+      "title": "Easy Mojito",
+      "image": "https://spoonacular.com/recipeImages/642026-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 643916,
+      "title": "Frozen Mojito Pie",
+      "image": "https://spoonacular.com/recipeImages/643916-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 635495,
+      "title": "Blueberry Mojito Popsicles",
+      "image": "https://spoonacular.com/recipeImages/635495-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 637766,
+      "title": "Cherry Lime Mojito",
+      "image": "https://spoonacular.com/recipeImages/637766-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 1697641,
+      "title": "Thirst-Quenching Strawberry Cocktail & Virgin Strawberry Mojito",
+      "image": "https://spoonacular.com/recipeImages/1697641-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 20,
+  "totalResults": 6
+}
