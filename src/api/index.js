@@ -2,23 +2,23 @@ import axios from "axios"
 
 const API = axios.create({
   baseURL: process.env.REACT_APP_API_URL,
-  headers: {
-    "x-api-key": process.env.REACT_APP_API_KEY,
-  },
 })
 
 /*
   number 	number 	1 	The number of random recipes to be returned (between 1 and 100).
  */
 export const getRandomRecipes = (number) =>
-  API.get(`/recipes/random?number=${number}`)
+  API.get(
+    `/recipes/random?number=${number}&apiKey=${process.env.REACT_APP_API_KEY}`
+  )
 
 /*
   id 	number 	716429 	The id of the recipe.
   includeNutrition 	boolean 	false 	Include nutrition data in the recipe information. Nutrition data is per serving. If you want the nutrition data for the entire recipe, just multiply by the number of servings.
   https://api.spoonacular.com/recipes/716429/information?includeNutrition=false
 */
-export const getRecipe = (id) => API.get(`/recipes/${id}/information`)
+export const getRecipe = (id) =>
+  API.get(`/recipes/${id}/information?apiKey=${process.env.REACT_APP_API_KEY}`)
 
 /*
   id 	number 	715538 	The id of the source recipe for which similar recipes should be found.
@@ -27,7 +27,9 @@ export const getRecipe = (id) => API.get(`/recipes/${id}/information`)
   https://api.spoonacular.com/recipes/715538/similar
 */
 export const getSimilarRecipes = (id, number) =>
-  API.get(`/recipes/${id}/similar?number=${number}`)
+  API.get(
+    `/recipes/${id}/similar?number=${number}&apiKey=${process.env.REACT_APP_API_KEY}`
+  )
 
 /*
   query 	string 	burger 	The query to be autocompleted.
@@ -36,7 +38,7 @@ export const getSimilarRecipes = (id, number) =>
 */
 export const getSearchSuggestion = (query) =>
   API.get(
-    `https://api.spoonacular.com/recipes/autocomplete?number=10&query=${query}`
+    `https://api.spoonacular.com/recipes/autocomplete?number=10&query=${query}&apiKey=${process.env.REACT_APP_API_KEY}`
   )
 
 /*
@@ -49,5 +51,5 @@ export const getSearchSuggestion = (query) =>
 */
 export const getSearchResult = (query) =>
   API.get(
-    `https://api.spoonacular.com/recipes/complexSearch?query=${query}&number=20&addRecipeInformation=true`
+    `https://api.spoonacular.com/recipes/complexSearch?query=${query}&number=20&addRecipeInformation=true&apiKey=${process.env.REACT_APP_API_KEY}`
   )
