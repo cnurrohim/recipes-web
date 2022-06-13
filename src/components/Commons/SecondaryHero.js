@@ -6,7 +6,7 @@ import { gapSystems, gridSystems, spanSystems } from "../Utils/ColumnSpan"
 const SecondaryHero = () => {
   return (
     <div
-      className={`grid ${gridSystems} ${gapSystems} min-h-screen gap-x-2 px-5 md:px-20 lg:px-20 xl:px-20 sm:px-20 bg-neutral-800 text-slate-200 relative`}
+      className={`overflow-hidden grid ${gridSystems} ${gapSystems} min-h-screen gap-x-2 px-5 md:px-20 lg:px-20 xl:px-20 sm:px-20 bg-neutral-800 text-slate-200 relative`}
       style={{
         backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.6) 100%), url('../hero/hero-bg (13).jpg')`,
         backgroundSize: "cover",
