@@ -25,13 +25,14 @@ const DetailS = () => {
     dispatch(getSimilarRecipes(id))
   }, [dispatch, id])
 
-  return recipe &&
+  const isRecipeNotFound =
+    recipe &&
     Object.keys(recipe).length === 0 &&
-    Object.getPrototypeOf(recipe) === Object.prototype ? (
-    <>
-      <Skeleton />
-    </>
-  ) : (
+    Object.getPrototypeOf(recipe) === Object.prototype
+
+  if (isRecipeNotFound) return <Skeleton />
+
+  return (
     <>
       <div
         className={`grid ${gridSystems} gap-y-0 xl:gap-x-6 lg:gap-x-6 md:gap-x-3 sm:gap-x-1 gap-x-1 px-5 md:px-20 lg:px-20 xl:px-20 sm:px-20 bg-slate-800 text-slate-200`}
