@@ -45,12 +45,12 @@ const ListRecipes = () => {
               }}
             >
               <div className="flex flex-col absolute bottom-5 lg:bottom-0 xl:bottom-0 w-full px-10 md:px-3 lg:px-3 xl:px-3 ">
-                <h1 className="text-xs md:text-sm lg:text-xl font-regular mb-2">
+                <h1 className="text-lg md:text-sm lg:text-xl font-regular mb-2">
                   <span>{recipe.title}</span>
                 </h1>
 
                 <div className="flex flex-row mb-1 sm:mb-5 lg:mb-5 justify-between">
-                  <span className="text-sm md:text-dm lg:text-lg flex flex-row items-center">
+                  <span className="text-md md:text-dm lg:text-lg flex flex-row items-center">
                     <FontAwesomeIcon icon={faClock} className="mr-1" />
                     <small>
                       {recipe.readyInMinutes}{" "}
@@ -59,7 +59,7 @@ const ListRecipes = () => {
                       </span>
                     </small>
                   </span>
-                  <span className="text-sm md:text-md lg:text-lg flex flex-row items-center">
+                  <span className="text-md md:text-md lg:text-lg flex flex-row items-center">
                     <FontAwesomeIcon icon={faBellConcierge} className="mr-1" />
                     <small>
                       {recipe.servings}{" "}
@@ -68,7 +68,7 @@ const ListRecipes = () => {
                       </span>
                     </small>
                   </span>
-                  <span className="text-sm md:text-md lg:text-lg flex flex-row  items-center">
+                  <span className="text-md md:text-md lg:text-lg flex flex-row  items-center">
                     <FontAwesomeIcon
                       icon={faHeart}
                       className="text-red-500 mr-1"
