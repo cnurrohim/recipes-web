@@ -42,19 +42,19 @@ const DetailS = () => {
           <img className="w-[100%] h-full" src={`${recipe.image}`} />
           <div className="col-span-5 col-start-1 h-28  bg-slate-600 flex flex-row">
             <div className="bg-slate-600 w-1/3 h-[100%] text-center flex justify-center items-center">
-              <span className="text-2xl flex flex-col items-center">
+              <span className="text-xl flex flex-col items-center">
                 <FontAwesomeIcon icon={faClock} className="text-3xl" />
                 <small>{recipe.readyInMinutes} mins</small>
               </span>
             </div>
             <div className="bg-slate-700 w-1/3 text-center flex justify-center items-center">
-              <span className="text-2xl flex flex-col items-center">
+              <span className="text-xl flex flex-col items-center">
                 <FontAwesomeIcon icon={faBellConcierge} className="text-3xl" />
                 <small>{recipe.servings} servings</small>
               </span>
             </div>
             <div className="bg-slate-800 w-1/3 text-center flex justify-center items-center">
-              <span className="text-2xl flex flex-col  items-center">
+              <span className="text-xl flex flex-col  items-center">
                 <FontAwesomeIcon
                   icon={faHeart}
                   className="text-white text-3xl"
