@@ -11,7 +11,7 @@ const heroImage = () => {
   /* take random images from asset */
   const randomHeroImage = Math.floor(Math.random() * (7 - 1) + 1)
   return (
-    <div className="flex h-[40vh] sm:h-[100vh] md:h-[100vh] lg:h-[100vh] flex-row w-full justify-center">
+    <div className="flex min-h-[40vh] sm:h-auto md:h-auto lg:h-[100vh] xl:h-[100vh] flex-row w-full justify-center">
       {clipPath.map((clip, i) => {
         const marginRight = i == clipPath.length - 1 ? "" : "mr-1"
         return (

@@ -34,7 +34,7 @@ const DetailS = () => {
   ) : (
     <>
       <div
-        className={`grid ${gridSystems} gap-y-0 xl:gap-x-6 lg:gap-x-6 md:gap-x-3 sm:gap-x-1 gap-x-1 pl-20 pr-20 bg-slate-800 text-slate-200`}
+        className={`grid ${gridSystems} gap-y-0 xl:gap-x-6 lg:gap-x-6 md:gap-x-3 sm:gap-x-1 gap-x-1 px-5 md:px-20 lg:px-20 xl:px-20 sm:px-20 bg-slate-800 text-slate-200`}
       >
         <div
           className={`h-max col-span-1 lg:col-span-5 xl:col-span-5 md:col-span-3 sm:col-span-4 col-start-1`}

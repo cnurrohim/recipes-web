@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <>
       <div
-        className={`grid ${gridSystems} ${gapSystems}  min-h-screen w-full  px-2 px-5 sm:px-5 md:px-10 lg:px-20 bg-slate-800 font-sans text-white`}
+        className={`grid ${gridSystems} ${gapSystems}  min-h-screen w-full  px-2 sm:px-5 md:px-10 lg:px-20 bg-slate-800 font-sans text-white`}
       >
         <Hero />
         <SecondTagLine />

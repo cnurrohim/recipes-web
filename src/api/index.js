@@ -1,5 +1,8 @@
 import axios from "axios"
 
+/*
+ x-api-key: CORS missing allow header
+*/
 const API = axios.create({
   baseURL: process.env.REACT_APP_API_URL,
 })

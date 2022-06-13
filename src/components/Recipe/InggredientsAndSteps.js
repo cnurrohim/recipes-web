@@ -17,7 +17,10 @@ const InggredientsAndSteps = () => {
     columnType != 1
       ? "col-start-1"
       : "md:col-start-5 sm:col-start-1 lg:col-start-7 col-start-1"
-  const ingredientWidth = columnType != 1 ? "w-1/4" : "w-2/4 md:1/2 "
+  const ingredientWidth =
+    columnType != 1
+      ? "w-1/2 sm:w-1/4 md:w-1/4 lg:w-1/4 xl:w-1/4"
+      : "w-2/4 md:1/2 "
 
   return (
     <>

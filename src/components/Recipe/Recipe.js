@@ -10,7 +10,7 @@ const Recipe = () => {
       <SecondaryHero />
       <Details />
       <div
-        className={`grid ${gridSystems} ${gapSystems} gap-6 w-full bg-slate-800  pl-20 pr-20 font-sans text-white`}
+        className={`grid ${gridSystems} ${gapSystems} gap-6 w-full bg-slate-800  px-5 md:px-20 lg:px-20 xl:px-20 sm:px-20 font-sans text-white`}
       >
         <Footer />
       </div>
