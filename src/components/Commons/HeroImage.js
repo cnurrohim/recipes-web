@@ -17,7 +17,7 @@ const heroImage = () => {
         return (
           <div key={i} className={`h-auto w-1/4 ${marginRight} ${clip}`}>
             <img
-              className="w-[100%] h-auto absolute sm:top-0 bottom-0 md:bottom-0 lg:bottom-0 xl:bottom-0 right-0"
+              className="w-[100%] h-[40vh] sm:h-auto md:h-auto absolute sm:top-0 bottom-0 md:bottom-0 lg:bottom-0 xl:bottom-0 right-0"
               src={`./hero/main-page/hero (${randomHeroImage}).jpg`}
               alt="nope"
             />
